@@ -1,3 +1,15 @@
+show that we can use "skim" instead of "eco" in client side template with backbone-rails
+
+this example is base on railscasts episode 323
+
+about skim
+https://github.com/jfirebaugh/skim 
+
+more information below
+
+
+
+
 # RailsCasts Episode #323: Backbone on Rails Part 1
 
 http://railscasts.com/episodes/323-backbone-on-rails-part-1
